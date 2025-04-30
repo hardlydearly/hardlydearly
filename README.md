@@ -24,10 +24,10 @@
     * ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
     * ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 * **后端 (Backend):** 微服务 (Microservices), API 设计 (API Design), gRPC, RESTful APIs
-* **数据库 (Databases):** PostgreSQL, MySQL, Redis, MongoDB [根据你的实际经验调整]
-* **DevOps & Infra:** Docker, Kubernetes (K8s), Linux, CI/CD (e.g., GitHub Actions, GitLab CI) [根据你的实际经验调整]
-* **云平台 (Cloud):** AWS, GCP, Azure [选择你熟悉的或删除]
-* **其他 (Others):** Git, Nginx, Prometheus, Grafana [添加其他你熟悉的工具]
+* **数据库 (Databases):** PostgreSQL, MySQL, Redis, MongoDB 
+* **DevOps & Infra:** Docker, Kubernetes (K8s), Linux, CI/CD
+* **云平台 (Cloud):** AWS, GCP, Azure 
+* **其他 (Others):** Git, Nginx, Prometheus, Grafana [
 
 ---
 
@@ -35,7 +35,6 @@
 
 * **Email:** `799511800@qq.com`
 * **GitHub:** [hardlydearly](https://github.com/hardlydearly)
-* **LinkedIn:** [你的 LinkedIn 个人资料链接 - 可选，建议添加]
 
 ---
 
