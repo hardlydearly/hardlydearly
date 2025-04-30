@@ -1,6 +1,6 @@
 # Hi there, I'm hardlydearly! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/hardlydearly?style=social)](https://github.com/hardlydearly)
+
 
 欢迎来到我的 GitHub 主页！我是一名拥有 7 年经验的软件工程师，专注于使用 Go 和 Rust 构建高效、可靠的系统。
 
@@ -12,7 +12,7 @@
 
 * 🚀 热衷于探索 **Go** 和 **Rust** 的最佳实践和性能优化。
 * 💡 专注于后端开发、分布式系统和云原生技术。
-* 🌱 目前正在深入学习 [可以添加你最近在学习或感兴趣的技术，例如：WebAssembly, eBPF, specific database tech 等]。
+* 🌱 目前正在深入学习 WebAssembly, eBPF
 * 👯 期待与其他开发者交流，并乐于为有趣的开源项目（尤其是 Go/Rust 生态）做出贡献。
 * 💬樂意解答技术相关问题。
 
